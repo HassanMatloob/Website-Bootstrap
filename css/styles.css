@@ -56,7 +56,7 @@ p {
 /* Title Image */
 
 .phone-image {
-  transform: rotate(25deg);
+  transform: rotate(0deg);
   width: 40%;
   position: absolute;
   left: 10%;
